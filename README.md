@@ -1,16 +1,17 @@
-# firebaseapp
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝘁𝗶𝘁𝗹𝗲: Registration Form
 
-A new Flutter project.
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗱𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: Design a simple registration form and store the value in Firebase database using android.
 
-## Getting Started
+<a href="https://github.com/DevRaghubeerSingh/RegistrationForm/blob/main/build/app/outputs/flutter-apk/app-release.apk">Download Apk</a>
 
-This project is a starting point for a Flutter application.
+𝙍𝙚𝙜𝙞𝙨𝙩𝙚𝙧 𝙎𝙘𝙧𝙚𝙚𝙣
 
-A few resources to get you started if this is your first Flutter project:
+![Register](https://github.com/user-attachments/assets/cb65ed22-3347-45f6-857c-016b1350327c)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+𝙇𝙤𝙜𝙞𝙣 𝙎𝙘𝙧𝙚𝙚𝙣
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Login](https://github.com/user-attachments/assets/8f314293-50a9-41bc-905b-ef48266ffccf)
+
+𝘿𝙖𝙨𝙝𝙗𝙤𝙖𝙧𝙙 𝙎𝙘𝙧𝙚𝙚𝙣
+
+![Dashboard](https://github.com/user-attachments/assets/5d5a5f9a-1804-4be5-af60-a2f33b945fbb)
