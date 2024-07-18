@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024801674749",
+    "project_id": "registrationform-2c22d",
+    "storage_bucket": "registrationform-2c22d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024801674749:android:92761ec13d310f39473594",
+        "android_client_info": {
+          "package_name": "com.rs.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMSxQi1GwqEdRcCVYDHzuHs0G4SxNkt60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
