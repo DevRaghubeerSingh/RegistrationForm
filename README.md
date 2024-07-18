@@ -2,6 +2,8 @@
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗱𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: Design a simple registration form and store the value in Firebase database using android.
 
+Note:- Firebase API Keys Have been removed from lib/firebase_options.dart Github Code for security purposes. But the app is working and app code is also there.
+
 <a href="https://github.com/DevRaghubeerSingh/RegistrationForm/blob/main/build/app/outputs/flutter-apk/app-release.apk">Download Apk</a>
 
 𝙍𝙚𝙜𝙞𝙨𝙩𝙚𝙧 𝙎𝙘𝙧𝙚𝙚𝙣
