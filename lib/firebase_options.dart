@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAVAAXv882qf_NpI9nGBCc62vmjqbq2Qnc',
+    apiKey: '',
     appId: '1:1024801674749:web:e81fb6133003cc4e473594',
     messagingSenderId: '1024801674749',
     projectId: 'registrationform-2c22d',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDMSxQi1GwqEdRcCVYDHzuHs0G4SxNkt60',
+    apiKey: '',
     appId: '1:1024801674749:android:92761ec13d310f39473594',
     messagingSenderId: '1024801674749',
     projectId: 'registrationform-2c22d',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC-NXWbJJIL1ig4HsKLwuH7kVGdEdClJQw',
+    apiKey: '',
     appId: '1:1024801674749:ios:d4b52957eed9a390473594',
     messagingSenderId: '1024801674749',
     projectId: 'registrationform-2c22d',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC-NXWbJJIL1ig4HsKLwuH7kVGdEdClJQw',
+    apiKey: '',
     appId: '1:1024801674749:ios:d4b52957eed9a390473594',
     messagingSenderId: '1024801674749',
     projectId: 'registrationform-2c22d',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAVAAXv882qf_NpI9nGBCc62vmjqbq2Qnc',
+    apiKey: '',
     appId: '1:1024801674749:web:0c19b92e0354f0e4473594',
     messagingSenderId: '1024801674749',
     projectId: 'registrationform-2c22d',
